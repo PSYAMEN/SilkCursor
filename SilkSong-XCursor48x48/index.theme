@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=SilkSong-XCursor48x48
+Comment=SilkSong cursor ported from windows credit to @noiireism for original cursor
+Directories=cursors
+Inherits=Adwaita
+
+[Cursor Theme]
+Name=SilkSong-XCursor48x48
+Comment=SilkSong cursor ported from windows credit to @noiireism for original cursor
