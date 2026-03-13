@@ -4,4 +4,4 @@ https://x.com/noiireism
 
 Original cursor for Windows https://ko-fi.com/s/2e08ca3a58
 
-![alt text](https://github.com/PSYAMEN/SilkCursor/SilkCursor.gif)
+![alt text]([https://github.com/PSYAMEN/SilkCursor/SilkCursor.gif](https://github.com/PSYAMEN/SilkCursor/blob/main/SilkCursor.gif))
